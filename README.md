@@ -5,7 +5,7 @@ Dự án được phát triển bằng **Unity 2D**.
 ## 🎮 Giới thiệu  
 **Pong** là một trò chơi cổ điển, nơi bạn điều khiển thanh gạt để đẩy bóng qua lại với đối thủ.  
 Mục tiêu là **không để bóng lọt qua phần sân của mình**.  
-👉 Trải nghiệm trực tiếp tại:  https://hasad1230z.itch.io/pong2d
+👉 Trải nghiệm trực tiếp tại: https://hasad1230z.itch.io/flappydragon2d
 
 ---
 ## 🧠 Tác giả : **ha_sad1230z**
