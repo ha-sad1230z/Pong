@@ -8,8 +8,7 @@ Mục tiêu là **không để bóng lọt qua phần sân của mình**.
 👉 Trải nghiệm trực tiếp tại:  https://hasad1230z.itch.io/pong2d
 
 ---
-## 🧠 Tác giả  
-**ha_sad1230z**
+## 🧠 Tác giả : **ha_sad1230z**
 ---
 ## 🧩 Tính năng  
 - Chế độ **2 người chơi (PvP)**  
